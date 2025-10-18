@@ -14,45 +14,30 @@ The American Money Map explores how accurately individuals in the U.S. assess th
 
 ## Objectives
 
-Define financial literacy and its key components.
-
-Analyze trends in self-reported financial confidence and knowledge.
-
-Compare self-assessments with actual literacy scores to evaluate accuracy.
-
-Identify demographic patterns in financial understanding.
+- Define financial literacy and its key components.
+- Analyze trends in self-reported financial confidence and knowledge.
+- Compare self-assessments with actual literacy scores to evaluate accuracy.
+- Identify demographic patterns in financial understanding.
 
 ## Methodology
 
 The project uses data analysis and visualization techniques in Python to:
 
-Clean and prepare U.S. financial literacy survey data.
-
-Explore demographic trends and self-assessment biases.
-
-Visualize findings through heatmaps, correlation plots, and regional insights.
+- Clean and prepare U.S. financial literacy survey data.
+- Explore demographic trends and self-assessment biases.
+- Visualize findings through heatmaps, correlation plots, and regional insights.
 
 ## Key Insights
 
-Many individuals overestimate their financial literacy, particularly in higher-income groups.
-
-Younger respondents show lower financial confidence but more realistic self-assessment.
-
-Regional differences highlight uneven access to financial education across the U.S.
+- Many individuals overestimate their financial literacy, particularly in higher-income groups.
+- Younger respondents show lower financial confidence but more realistic self-assessment.
+- Regional differences highlight uneven access to financial education across the U.S.
 
 ## Tools & Technologies
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-Jupyter Notebook for analysis
-
-Data visualization for storytelling and insight generation
-
-## Project Structure
-team8-notebook.ipynb    # Main analysis notebook
-README.md                # Project overview
-data/                    # Raw and processed datasets
-visuals/                 # Charts and plots from analysis
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook and VS Code for analysis
+- Data visualization for storytelling and insight generation
 
 ## Conclusion
 
