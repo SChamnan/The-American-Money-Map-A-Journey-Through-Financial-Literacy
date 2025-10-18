@@ -1,4 +1,4 @@
-# The-American-Money-Map-A-Journey-Through-Financial-Literacy
+# The-American-Money-Map:-A-Journey-Through-Financial-Literacy
 Team 8
 
 Jesse Kinsmann (Project Manager),
